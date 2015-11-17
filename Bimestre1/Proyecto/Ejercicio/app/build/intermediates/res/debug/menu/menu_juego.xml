@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vinicio.ambientes_rompecabezas.Juego">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/C:/Users/Vinicio%20Geovany/AndroidStudioProjects/Ambientes_Rompecabezas/app/src/main/res/menu/menu_juego.xml -->
